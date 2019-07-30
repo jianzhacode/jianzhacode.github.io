@@ -74,7 +74,7 @@
   <entry>
     <title><![CDATA[Hexo-NexT主题配置]]></title>
     <url>%2F2018%2F01%2F20%2Ftest6%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[test6aa]]></content>
       <categories>
         <category>Hexo</category>
       </categories>
