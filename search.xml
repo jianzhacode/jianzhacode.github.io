@@ -71,4 +71,16 @@
         <tag>Java</tag>
       </tags>
   </entry>
+  <entry>
+    <title><![CDATA[Hexo-NexT主题配置]]></title>
+    <url>%2F2018%2F01%2F20%2Ftest6%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>NexT</tag>
+      </tags>
+  </entry>
 </search>
