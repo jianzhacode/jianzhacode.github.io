@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[test3]]></title>
-    <url>%2F2019%2F07%2F30%2Ftest3%2F</url>
-    <content type="text"><![CDATA[test3asdfasfasdfas]]></content>
+    <title><![CDATA[test4]]></title>
+    <url>%2F2019%2F07%2F30%2Ftest4%2F</url>
+    <content type="text"><![CDATA[test4asd123123]]></content>
       <categories>
         <category>Hexo</category>
       </categories>
@@ -13,9 +13,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[test4]]></title>
-    <url>%2F2019%2F07%2F30%2Ftest4%2F</url>
-    <content type="text"><![CDATA[test4asd123123]]></content>
+    <title><![CDATA[test3]]></title>
+    <url>%2F2019%2F07%2F30%2Ftest3%2F</url>
+    <content type="text"><![CDATA[test3asdfasfasdfas]]></content>
       <categories>
         <category>Hexo</category>
       </categories>
