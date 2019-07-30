@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[test4]]></title>
+    <url>%2F2019%2F07%2F30%2Ftest4%2F</url>
+    <content type="text"><![CDATA[test4asd123123]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>NexT</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[test3]]></title>
+    <url>%2F2019%2F07%2F30%2Ftest3%2F</url>
+    <content type="text"><![CDATA[test3asdfasfasdfas]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>NexT</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[test5]]></title>
+    <url>%2F2019%2F07%2F30%2Ftest5%2F</url>
+    <content type="text"><![CDATA[test5asd123123123132123afasdfsad]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>NexT</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[test2]]></title>
+    <url>%2F2019%2F07%2F30%2Ftest2%2F</url>
+    <content type="text"><![CDATA[test2aaa]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>NexT</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[test1]]></title>
+    <url>%2F2019%2F07%2F30%2Ftest1%2F</url>
+    <content type="text"><![CDATA[#top100 测试]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>NexT</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World!]]></title>
     <url>%2F2019%2F07%2F30%2FHello-World-0%2F</url>
     <content type="text"><![CDATA[Java HelloWorld12345public calss HelloWorld&#123; public static void main(String[] args)&#123; System.out.println(&quot;Hello World!&quot;); &#125;&#125; 第一个博客，第一个代码。]]></content>
