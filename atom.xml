@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jianzhacode/github.io/"/>
-  <updated>2019-08-02T00:41:14.691Z</updated>
+  <updated>2019-08-02T00:57:20.862Z</updated>
   <id>http://jianzhacode/github.io/</id>
   
   <author>
@@ -17,19 +17,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>算法基础</title>
+    <title>算法</title>
     <link href="http://jianzhacode/github.io/2019/08/02/%E7%AE%97%E6%B3%95/"/>
     <id>http://jianzhacode/github.io/2019/08/02/算法/</id>
     <published>2019-08-02T00:39:35.000Z</published>
-    <updated>2019-08-02T00:41:14.691Z</updated>
+    <updated>2019-08-02T00:57:20.862Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2>]]></content>
+    <content type="html"><![CDATA[<h1 id="第一章-基础"><a href="#第一章-基础" class="headerlink" title="第一章 基础"></a>第一章 基础</h1><hr>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h2&gt;
+        &lt;h1 id=&quot;第一章-基础&quot;&gt;&lt;a href=&quot;#第一章-基础&quot; class=&quot;headerlink&quot; title=&quot;第一章 基础&quot;&gt;&lt;/a&gt;第一章 基础&lt;/h1&gt;&lt;hr&gt;
+
       
     
     </summary>
