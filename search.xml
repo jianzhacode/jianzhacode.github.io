@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[test]]></title>
-    <url>%2F2019%2F07%2F30%2Ftest%2F</url>
-    <content type="text"><![CDATA[]]></content>
+    <title><![CDATA[算法基础]]></title>
+    <url>%2F2019%2F08%2F02%2F%E7%AE%97%E6%B3%95%2F</url>
+    <content type="text"><![CDATA[第一章]]></content>
       <categories>
-        <category>Test</category>
+        <category>算法</category>
       </categories>
       <tags>
-        <tag>test</tag>
-        <tag>photo</tag>
+        <tag>算法(第四版)</tag>
       </tags>
   </entry>
   <entry>
