@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[算法]]></title>
-    <url>%2F2019%2F08%2F02%2F%E7%AE%97%E6%B3%95%2F</url>
-    <content type="text"><![CDATA[第一章 基础 1.1.2 原始数据类型与表达式 整形，及其算数运算符(int) 双精度实数类型，及其算数运算符（double) 布尔型，值为{true，false}及其逻辑操作（boolean) 字符型，他的值是你能够输入的英文字母数字字符和符号（char) -]]></content>
-      <categories>
-        <category>算法</category>
-      </categories>
-      <tags>
-        <tag>算法(第四版)</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Hello World!]]></title>
     <url>%2F2019%2F07%2F30%2FHello-World-0%2F</url>
     <content type="text"><![CDATA[Java HelloWorld12345public calss HelloWorld&#123; public static void main(String[] args)&#123; System.out.println(&quot;Hello World!&quot;); &#125;&#125; 第一个博客，第一个代码。]]></content>
