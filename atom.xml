@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jianzhacode/github.io/"/>
-  <updated>2019-07-30T10:21:14.354Z</updated>
+  <updated>2019-08-06T13:26:16.657Z</updated>
   <id>http://jianzhacode/github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>访问修饰符</title>
+    <link href="http://jianzhacode/github.io/2019/08/06/%E8%AE%BF%E9%97%AE%E4%BF%AE%E9%A5%B0%E7%AC%A6/"/>
+    <id>http://jianzhacode/github.io/2019/08/06/访问修饰符/</id>
+    <published>2019-08-06T13:03:18.000Z</published>
+    <updated>2019-08-06T13:26:16.657Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="访问控制修饰符"><a href="#访问控制修饰符" class="headerlink" title="访问控制修饰符"></a>访问控制修饰符</h2><p><img src="https://jianzha-1259751733.cos.ap-beijing.myqcloud.com/%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6%E4%BF%AE%E9%A5%B0%E7%AC%A6/fwkzxsf.png" alt="访问控制修饰符"></p><h4 id="访问控制修饰符-1"><a href="#访问控制修饰符-1" class="headerlink" title="访问控制修饰符"></a>访问控制修饰符</h4><ol><li>如上图箭头指向的地方,不能添加访问控制修饰符(public private protected)<ul><li>只要在方法内部定义的变量(局部变量)就不能使用访问修饰符修饰。</li><li>因为方法内部定义的变量是局部变量,局部变量只能在当前定义它的方法内使用。</li><li>类以内,方法以外的变量是成员变量,或者叫全局变量,可以在这个类以内的任何方法内共用,也可以添加各种访问修饰符。</li></ul></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;访问控制修饰符&quot;&gt;&lt;a href=&quot;#访问控制修饰符&quot; class=&quot;headerlink&quot; title=&quot;访问控制修饰符&quot;&gt;&lt;/a&gt;访问控制修饰符&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;https://jianzha-1259751733.cos.ap-beijin
+      
+    
+    </summary>
+    
+      <category term="Java" scheme="http://jianzhacode/github.io/categories/Java/"/>
+    
+    
+      <category term="坑" scheme="http://jianzhacode/github.io/tags/%E5%9D%91/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World!</title>
